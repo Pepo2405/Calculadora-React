@@ -4,7 +4,7 @@ Hecha con el curso de FreecodeCamp
 ## Objetivo
 Este proyecto cortito me ayudo a entender los hooks de ReactJs
 
-##Comentarios
+## Comentarios
 Disfrute mucho haciendola ya que no fue solo un copiar y pegar el codigo, con lo aprendido
 pude "optimizar" algunas cosas, mejorar en la desestructuracion y tanto solucionar errores como
 agregar funcionalidades.
