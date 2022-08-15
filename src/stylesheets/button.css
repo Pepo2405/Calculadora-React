@@ -1,0 +1,54 @@
+.boton-contenedor {
+    height: 83px;
+    display: flex;
+    flex: 1 1;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 38px;
+    background-color: #3c3c6a;
+    color: white;
+    border-radius: 25px;
+    border: 2px solid white;
+    margin: 4px;
+    cursor: pointer;
+    user-select: none;
+  }
+  
+  .boton-contenedor:hover {
+    background-color: #5a01a7;
+  }
+  .boton-contenedor:active{
+    scale: 0.98;
+  }
+  
+  .operador {
+      background-color: #a34040;
+}
+
+.operador:hover {
+    background-color: #df5e5e;
+  }
+
+.clear-button{
+    height: 70px;
+    font-size: 1.6em;
+    display: flex;
+    flex: 1;
+    background-color: #ac0246;
+    margin-top: 8px;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: whitesmoke;
+    border: 2px solid whitesmoke;
+    cursor: pointer;
+    max-width: 70%;
+    border-radius: 5px;
+}
+.clear-button:hover{
+    background-color: #ef0563;
+}
+.clear-button:active{
+scale:0.98
+}
