@@ -1,6 +1,7 @@
 # Calculadora 🖩
 Hecha con el curso de FreecodeCamp
 
+## [Click para verla funcionando](https://calculadora-react-sigma.vercel.app/)
 ## Objetivo
 Este proyecto cortito me ayudo a entender los hooks de ReactJs
 
